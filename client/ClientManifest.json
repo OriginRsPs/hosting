@@ -1,0 +1,9 @@
+[
+    {
+		"name": "Normal",
+		"main": "Application",
+		"bootstrap": "https://valorrsps.com/client/normal/bootstrap.json",
+		"bootstrapsig": "https://valorrsps.com/client/normal/bootstrap.json.sha256",
+		"tooltip": "The Latest most stable Client"
+    }
+]
