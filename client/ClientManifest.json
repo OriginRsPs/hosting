@@ -5,5 +5,12 @@
     "bootstrap": "https://raw.githubusercontent.com/OriginRsPs/hosting/master/client/live/bootstrap.json",
     "bootstrapsig": "https://raw.githubusercontent.com/OriginRsPs/hosting/master/client/live/bootstrap.json.sha256",
     "tooltip": "The Latest most stable Client"
+  },
+  {
+    "name": "LIVE",
+    "main": "Application",
+    "bootstrap": "https://raw.githubusercontent.com/OriginRsPs/hosting/master/client/live/bootstrap.json",
+    "bootstrapsig": "https://raw.githubusercontent.com/OriginRsPs/hosting/master/client/live/bootstrap.json.sha256",
+    "tooltip": "The Latest most stable Client"
   }
 ]
