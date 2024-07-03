@@ -80,13 +80,13 @@
     {
       "hash": "018aa20486fcc684ef0bcaad73b40372ff5af91c8c47ca511ce6f7ed16260931",
       "name": "game-0.0.1.jar",
-      "path": "https://github.com/OriginRsPs/hosting/raw/master/client/live/repo/game-0.0.1.jar",
+      "path": "extension \u0027releaseSettings\u0027 property \u0027downloadRoot\u0027live/repo/game-0.0.1.jar",
       "size": 1997925
     },
     {
       "hash": "28c33ff5f6094f239b62408b3e9d250babaa5f15d89b96f2ff68b2bc52085ca5",
       "name": "runelite-0.0.1.jar",
-      "path": "https://github.com/OriginRsPs/hosting/raw/master/client/live/repo/runelite-0.0.1.jar",
+      "path": "extension \u0027releaseSettings\u0027 property \u0027downloadRoot\u0027live/repo/runelite-0.0.1.jar",
       "size": 14430108
     },
     {
