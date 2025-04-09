@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "1a0b22a64f4eb89af1fccc2aedcf7d8f8fa27f65981c405a94cece55615ce6cc",
+      "hash": "041fd7c93c81b5a561937e6b8ade6cbf1e3779018b01d0d37f4f7d53ce31c702",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/OriginRsPs/hosting/raw/master/client/live/repo/game-0.0.1.jar",
-      "size": 2297639
+      "size": 2297625
     },
     {
       "hash": "065abbfc3dd32e5e3eb13e28c344ad8f0c7de438861e5099f7a5a6cd96213998",
@@ -512,7 +512,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "1a0b22a64f4eb89af1fccc2aedcf7d8f8fa27f65981c405a94cece55615ce6cc",
+    "game-0.0.1.jar": "041fd7c93c81b5a561937e6b8ade6cbf1e3779018b01d0d37f4f7d53ce31c702",
     "runelite-0.0.1.jar": "065abbfc3dd32e5e3eb13e28c344ad8f0c7de438861e5099f7a5a6cd96213998",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
